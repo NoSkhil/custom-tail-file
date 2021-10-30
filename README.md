@@ -2,5 +2,5 @@
 
 Steps to run - 
 
-"yarn install"
+"yarn install",
 "node app.js"
